@@ -1,0 +1,10 @@
+Excel formulae to calculate labels
+
+Label Calculation:
+
+=IF(C2-B3<0,"__label__2","__label__1")
+
+
+Matching headlines and label
+
+=VLOOKUP(A2,Sheet1!A2:D2768,4,FALSE)

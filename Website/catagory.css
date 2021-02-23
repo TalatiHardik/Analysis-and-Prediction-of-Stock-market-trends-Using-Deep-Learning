@@ -1,0 +1,38 @@
+body{
+	color: #fff;
+}
+
+#result .container{
+	width: 50%;
+	margin: 100px auto;
+}
+
+#result{
+	margin-top: 100px;
+
+}
+#cover-pic{
+	margin-top: 50px;
+	width: 100%;
+	height: 200px;
+}
+#company-name{
+	margin-top: 20px;
+	font-size: 25px;
+	width: 100%;
+	text-align: center;
+}
+#link{
+	text-decoration: none;
+	color: #fff;
+}
+
+#line:after {
+    content: " ";
+    height: 2px;
+    width: 100%;
+    background-color: #0984e3;
+    display: block;
+    margin: 0 auto;
+    margin-top: 18px;
+}
