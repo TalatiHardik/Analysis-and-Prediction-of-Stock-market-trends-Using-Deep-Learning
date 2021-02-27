@@ -49,10 +49,10 @@ I made three different models for each step of this application:
 
 ## Productionization 
 
-![alt text](https://github.com/gjariwala9/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/index.png "Home Page")
+![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/index.png "Home Page")
 
-![alt text](https://github.com/gjariwala9/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/historic.png "Stock Price Prediction")
+![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/historic.png "Stock Price Prediction")
 
-![alt text](https://github.com/gjariwala9/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/news.png "News Sentiment Prediction")
+![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/news.png "News Sentiment Prediction")
 
-![alt text](https://github.com/gjariwala9/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/risk_analysis.png "Risk Analysis")
+![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/risk_analysis.png "Risk Analysis")
