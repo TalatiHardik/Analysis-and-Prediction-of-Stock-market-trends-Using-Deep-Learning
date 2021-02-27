@@ -33,7 +33,7 @@ Wrote a python script to scrap news headlines for each stock from moneycontrol.c
 *	Dates
 
 ## Data Cleaning
-After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+After scraping the data, we needed to clean it up so that it was usable for our model. We made the following changes and created the following variables:
 
 *	News Headlines were cleaned by removing stopwords and done preprocessing like stemming.
 *	Corrected the date format 
@@ -41,7 +41,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## Model Building 
 
-I made three different models for each step of this application:
+We made three different models for each step of this application:
 *	**Recurrent Neural Network with LSTM** – To predict OPEN, HIGH, LOW, CLOSE
 *	**Support Vector Machine and Naive Bayes** – To predict the trend of stock using the sentiment of news headlines
 *	**K-means Clustering** – To group similar stock together for Risk Analysis
