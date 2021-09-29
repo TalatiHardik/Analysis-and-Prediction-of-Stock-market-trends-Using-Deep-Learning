@@ -49,7 +49,7 @@ We made three different models for each step of this application:
 
 ## Productionization 
 
-![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/index.png "Home Page")
+![alt text](https://raw.githubusercontent.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/master/README_IMG/index.png "Home Page")
 
 ![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/historic.png "Stock Price Prediction")
 
