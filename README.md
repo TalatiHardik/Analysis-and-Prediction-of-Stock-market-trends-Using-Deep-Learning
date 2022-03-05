@@ -48,11 +48,15 @@ We made three different models for each step of this application:
 
 
 ## Productionization 
+### Home Page
+![index](https://user-images.githubusercontent.com/57723556/156887897-70ebada5-78ba-4f23-9a31-e2e163262de8.png)
 
-![alt text](https://raw.githubusercontent.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/master/README_IMG/index.png "Home Page")
+### Trend Prediction
+![historic](https://user-images.githubusercontent.com/57723556/156887971-16e71666-0b56-445d-82f9-bd508047863d.png)
 
-![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/historic.png "Stock Price Prediction")
+### News Sentiment Prediction
+![news](https://user-images.githubusercontent.com/57723556/156888317-5be3d6d3-0560-4279-92dd-3130f2f8f8f2.png)
 
-![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/news.png "News Sentiment Prediction")
+### Risk Analysis
+![risk_analysis](https://user-images.githubusercontent.com/57723556/156888335-7b0750ae-5c8c-4033-b067-a84f65e30f74.png)
 
-![alt text](https://github.com/TalatiHardik/Analysis-and-Prediction-of-Stock-market-trends-Using-Deep-Learning/blob/master/README_IMG/risk_analysis.png "Risk Analysis")
